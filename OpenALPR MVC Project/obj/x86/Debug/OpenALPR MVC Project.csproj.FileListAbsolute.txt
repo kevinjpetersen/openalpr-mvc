@@ -1,0 +1,46 @@
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\csc.exe
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\csc.exe.config
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\csc.rsp
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\csi.exe
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\csi.rsp
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\System.AppContext.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\vbc.exe
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\vbc.exe.config
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\vbc.rsp
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\VBCSCompiler.exe
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\OpenALPR MVC Project.dll.config
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\OpenALPR MVC Project.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\OpenALPR MVC Project.pdb
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Helpers.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Mvc.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Razor.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Webpages.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Webpages.Razor.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Razor.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Webpages.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Webpages.Razor.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Helpers.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\bin\System.Web.Mvc.xml
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\obj\x86\Debug\OpenALPR MVC Project.dll
+C:\Projects\OpenALPR MVC Project\OpenALPR MVC Project\OpenALPR MVC Project\obj\x86\Debug\OpenALPR MVC Project.pdb

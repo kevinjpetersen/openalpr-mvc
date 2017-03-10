@@ -1,0 +1,40 @@
+﻿@using openalprnet
+@using OpenALPR_MVC_Project.Models
+@{
+    ViewBag.Title = "Home";
+    string recognitionFolder = "samples";
+}
+
+
+<h1>OpenALPR MVC Project</h1>
+<hr/>
+@foreach (string file in Directory.GetFiles(OpenALPRHelper.GetMapPath(recognitionFolder)))
+{
+
+    AlprResultsNet results = OpenALPRHelper.Recognize(file);
+            
+    <h2>Image file: @Path.GetFileName(file)</h2>
+    <img src="samples/@(Path.GetFileName(file))" height="200" />
+    <h4>Processing time: @results.TotalProcessingTimeMs ms</h4>
+
+    if(results.Plates.Count > 0)
+    {
+        <table>
+            <tr>
+                <td><b>License Plate</b></td>
+                <td><b>Confidence</b></td>
+            </tr>
+            @foreach (AlprPlateNet plate in results.Plates[0].TopNPlates)
+            {
+                <tr>
+                    <td>@plate.Characters</td>
+                    <td>@(plate.OverallConfidence)%</td>
+                </tr>
+            }
+        </table>
+    } else
+    {
+        <h3>No plates found for this image.</h3>
+    }
+    <hr/>
+}
