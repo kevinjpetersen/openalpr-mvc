@@ -44,6 +44,7 @@ However, you may have tried to use the x86 version aswell, and this resulted in 
 
 ## IIS Application Pool
 By default, your computer determines if IIS uses 64 or 32- bit for it's Application Pools. On most computers, it's always the case that this is 64- bit. As we covered above, OpenALPR only runs in x86 when it comes to IIS, so how do we tell IIS to use 32- bit application pool? Simple.
+
 1. Go to your Application Pool and click on it
 2. In the right side, there's a button called "Advanced Settings", click on that
 3. Now a window appears with alot of settings. The second option from the top is called "Enable 32-Bit Applications". This is by default set to **False**, so by changing this to **True** we will be one step closer to having OpenALPR run, but we're not there yet.
@@ -56,6 +57,7 @@ This is it's missing **Dependencies**.
 A requirement of OpenALPR is that Microsoft Visual C++ is installed on the machine that should run the application, but even if this is the case, MVC has a weird way of loading binary files (dlls) which results in OpenALPR complaining about missing dependencies still.
 
 To fix this, we need to do a couple of things:
+
 1. Change the Web.config of the MVC Application to not make a shadow copy of the required binaries at build-time, as this weirdly enough doesn't work.
 2. Copy all the required dependencies of **openalpr-net.dll** into the "**bin**" folder of the MVC application.
 
