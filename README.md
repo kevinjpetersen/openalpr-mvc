@@ -1,9 +1,11 @@
 # OpenALPR MVC
 
-
 OpenALPR MVC integrates the OpenALPR library into an MVC Application with the required DLLs, settings and hassle. Only a few tweaks in the IIS is needed and you're ready!
 
 Creator (Me): https://www.linkedin.com/in/kevin-jensen-petersen-740a5a73/ (Feel free to connect!)
+---
+# Release notes
+- *2017-03-10* | **Added version 1.0**
 
 ---
 
